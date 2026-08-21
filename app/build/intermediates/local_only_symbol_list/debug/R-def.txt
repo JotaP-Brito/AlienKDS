@@ -1,5 +1,8 @@
 R_DEF: Internal format may change without notice
 local
+id connection_status
+id reload_button
+id server_button
 id webview
 layout activity_main
-style Theme.AppCompat.Light.NoActionBar
+style Theme.KDS
